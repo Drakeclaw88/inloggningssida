@@ -9,11 +9,40 @@ html, body
     padding: 0;
     min-height: 100%;
     background-color: aquamarine;
+    font-style: italic;
+}
+
+header
+{
+    text-align: center;
+    font-size: 1.4em;
+    font-weight: lighter;
+    background-color: crimson;
+    padding-bottom: 30px;
+    border-width: 4px;
+    border-bottom-style: solid;
+    border-color: darkblue;
+}
+
+header h1 {
+    margin: 0;
 }
 
 .container 
 {
-    max-width: 900px;
+    max-width: 1200px;
     margin: 0 auto;
     padding: 0 1.6em;
+}
+
+
+.loginForm
+{
+    background-color: lightslategray;
+    padding: 50px;
+    margin: 20px;
+    border-style: outset;
+    border-width: 8px;
+    border-color: coral;
+    font-size: 30px;
 }
