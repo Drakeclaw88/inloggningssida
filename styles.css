@@ -24,7 +24,8 @@ header
     border-color: darkblue;
 }
 
-header h1 {
+header h1
+ {
     margin: 0;
 }
 
