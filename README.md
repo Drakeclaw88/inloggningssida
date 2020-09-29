@@ -13,6 +13,6 @@ I välkomstsidan (som visas när jag är inloggad) så skall det finnas en "logg
 Uppgiften skall även innehålla en beskrivning av kodens funktion och en reflektion kring de metoder som använts för att lösa uppgiften..
 När du är färdig med din uppgift så skall du bifoga ett textdokument som innehåller en länk till både ett repo med uppgiften, en länk till en testbar sida via Github Pages samt den reflekterande texten.
 
-Under tiden ni arbetar med repot fram till fredag så vill vi dock att ni har ert repo som privat, ändra på fredag precis innan ni lämnar in.
+https://drakeclaw88.github.io/inloggningssida/
 
  
